@@ -1,7 +1,7 @@
 # Hi there, I'm Shivam Garg 👋
 
 ## 🚀 About Me
-I'm a final-year CS student and Full-Stack Developer passionate about building scalable systems and AI/ML applications. Currently working at vCommission, where I led a critical backend migration that improved API performance by 40%.
+I'm a Software Engineer passionate about building scalable systems and AI/ML applications. Currently working at vCommission, where I led a critical backend migration that improved API performance by 40%.
 
 - 🔭 Currently working on: Backend systems optimization and ML-powered applications
 - 🌱 Learning: Advanced System Design, Kubernetes, and Large Language Models
